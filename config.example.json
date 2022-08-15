@@ -1,0 +1,11 @@
+{
+    "output": "path/to/output.txt",
+    "apikey": "API KEY",
+    "symbols": [
+        "USD/GBP",
+        "AUD/EUR",
+        "ETH/USD",
+        "SPX",
+        "TSLA"
+    ]
+}

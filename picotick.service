@@ -1,0 +1,10 @@
+[Unit]
+Description=Run picotick fetch
+Wants=picotick.timer
+
+[Service]
+Type=oneshot
+ExecStart=/path/to/picotick fetch
+
+[Install]
+WantedBy=default.target
