@@ -1,6 +1,6 @@
 # picotick
 
-A simple scripts that fetches and dumps simple market prices. Uses the [Twelve Data](https://twelvedata.com/) REST API.
+A simple script that fetches and dumps simple market prices. Uses the [Twelve Data](https://twelvedata.com/) REST API.
 
 Note that the Free plan for Twelve Data does not support indices, but it does support index funds (e.g. SPX)
 
